@@ -8,3 +8,9 @@
                         ```
                         git rewmote add nazvanie repozitiria url repozitoria
                         ```
+просмотр подсветки синтаксиса кода на github:
+``` C#
+while (n<0)
+{
+n++;
+}
